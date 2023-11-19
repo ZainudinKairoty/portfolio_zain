@@ -1,0 +1,46 @@
+/* HOME */
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url('https://img.freepik.com/free-vector/white-technology-background_23-2148403783.jpg?w=900&t=st=1699452905~exp=1699453505~hmac=d287f358edd700e637cc4c97774c7ce4efcc1f3193ef7bd46ae5faf85b8e771c');
+}
+.jumbotron .sosmed a i {
+  font-size: 2.5em;
+  margin: 4px;
+  color: #2b2d42;
+}
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: #14213d;
+  padding: 2rem;
+}
+/* ABOUT ME */
+.halaman2 {
+  background-color: #ffffff;
+  padding-top: 4rem;
+}
+/* RESUME */
+.halaman3 {
+  background-color: #edf2f4;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.resume1 {
+  text-align: justify;
+  padding-top: 2rem;
+  padding: 0;
+}
+.resume1 .row {
+  justify-content: center;
+}
+/* CONTACT */
+.halaman4 {
+  background-color: #ffffff;
+}
+/* FOOTER */
+footer {
+  background-color: #023047;
+  color: white;
+  padding: 2px;
+  text-align: center;
+}
